@@ -1,0 +1,51 @@
+    1  whoami
+    2  su
+    3  ls
+    4  cd
+    5  whoami
+    6  su larry
+    7  clear
+    8  cd/desktop
+    9  ls
+   10  cd Desktop
+   11  ls
+   12  cd Downloads
+   13  cd
+   14  cd Downloads
+   15  ls
+   16  cd
+   17  sudo -i
+   18  sudo apt install git
+   19  git clone https://github.com/RenoTechnologyAcademy/CIT173_Lab2_Files
+   20  sudo apt install git
+   21  cd ~/
+   22  git clone https://github.com/RenoTechnologyAcademy/CIT173_Lab2_Files.git
+   23  cat ~/CIT173_Lab2_Files/phonebook1.txt > ~/CIT173_Lab2_Files/phonebook2.txt
+   24  ls
+   25  cd desktop
+   26  cd Desktop
+   27  git clone https://github.com/RenoTechnologyAcademy/CIT173_Lab2_Files.git
+   28  cat ~/CIT173_Lab2_Files/phonebook1.txt ~/CIT173_Lab2_Files/phonebook2.txt > ~/CIT173_Lab2/my-phonebook.txt
+   29  cat ~/Desktop/CIT173_Lab2_Files/phonebook1.txt ~/Desktop/CIT173_Lab2_Files/phonebook2.txt > ~/Desktop/CIT173_Lab2/my-phonebook.txt
+   30  wc ~/CIT173_Lab2/my-phonebook.txt
+   31  wc ~/Desktop/CIT173_Lab2/my-phonebook.txt
+   32  cat ~/Desktop/CIT173_Lab2/my-phonebook.txt
+   33  q
+   34  cat ~/Desktop/CIT173_Lab2_Files/phonebook1.txt ~/Desktop/CIT173_Lab2_Files/phonebook2.txt > ~/Desktop/
+   35  cat ~/Desktop/CIT173_Lab2_Files/phonebook1.txt ~/Desktop/CIT173_Lab2_Files/phonebook2.txt > ~/Desktop/~/CIT173_Lab2/my-phonelisting.txt
+   36  cat ~/Desktop/CIT173_Lab2_Files/phonebook1.txt ~/Desktop/CIT173_Lab2_Files/phonebook2.txt > ~/Desktop/CIT173_Lab2/my-phonelisting.txt
+   37  tac ~/Desktop/CIT173_Lab2/my-phonebook.txt > ~/Desktop/CIT173_Lab2/my-phonebook-reverse.txt
+   38  join ~/Desktop/CIT173_Lab2/my-phonebook.txt ~/Desktop/CIT173_Lab2/my-phonelisting.txt > ~/Desktop/CIT173_Lab2/my-joined-phonebook.txt
+   39  unexpand ~/Desktop/CIT173_Lab2/my-phonebook.txt > ~/Desktop/CIT173_Lab2/my-tabbed-phonebook.txt
+   40  sort ~/Desktop/CIT173_Lab2/my-phonebook.txt > ~/Desktop/CIT173_Lab2/my-sorted-phonebook.txt
+   41  ps
+   42  ps -i
+   43  ps -l
+   44  ps -H
+   45  nl ~/Desktop/CIT173_Lab2/my-phonebook.txt > ~/Desktop/CIT173_Lab2/my-numbered-phonebook.txt
+   46  top
+   47  top -p
+   48  top -P
+   49  head ~/Desktop/CIT173_Lab2/my-phonebook.txt > ~/Desktop/CIT173_Lab2/my-head-phonebook.txt
+   50  tail ~/Desktop/CIT173_Lab2/my-phonebook.txt > ~/Desktop/CIT173_Lab2/my-tail-phonebook.txt
+   51  history > ~/Desktop/CIT173_Lab2/my-command-history.txt
